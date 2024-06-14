@@ -2,8 +2,10 @@
 
 Meu nome é Ana Ferraz
 
-_Estou estudando no Alura
+_ Estou estudando no Alura
+
 _Estou no 3 ano do médio
+
 _Estou aprendendo JavaScript e pretendo utilizar este programa para me organizar melhor
 
 ### Meu contato💻
